@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter || App Development.**
 
-- 💬 Ask me about **React.js, Next.js, JavaScript, TypeScript, C# Programing, Java Programming, Unity.**
+- 💬 Ask me about **Next.js, JavaScript, TypeScript, C# Programing, Java Programming, Unity.**
 
 - 📫 How to reach me **vishveshpatil99@gmail.com**
 
